@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  /* text-align: center; */
+}
+
+table {
+  width: 100%;
+}
+
+thead {
+  background-color: #009879;
+  color: white;
+  border: none;
+}
+
+td {
+  width: 20px;
+}
